@@ -31,29 +31,23 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Mulearn Website Design 3.0 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Redesigned the website for Mulearn, a student driven organization",
+    url: "https://www.behance.net/gallery/183251625/MuLearn-Website-Redesign-casestudy",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Eduport Mobile Redesign",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Redesigned the mobile app for Eduport, an online learning platform",
+    url: "https://www.behance.net/gallery/171080743/Eduport-Mobile-Website-Redesign",
   },
   {
-    title: "My Resume Site",
+    title: "My Blog",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
-  },
+      "Check out my blog where I write about my experiences as a student and a designer",
+    url: "https://techbyabeginner.hashnode.dev/",
+  },    
 ];
 
 const Portfolio = () => {
